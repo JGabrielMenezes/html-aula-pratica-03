@@ -1,0 +1,13 @@
+{
+  "name": "list.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.html",
+  "scripts": {
+  },
+  "keywords": [
+    "list"
+  ],
+  "author": "gabriel",
+  "license": "ISC"
+}
